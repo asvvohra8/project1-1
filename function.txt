@@ -1,0 +1,5 @@
+Here we will create arthmetics function in python
+
+
+def add(n,n2):
+  return a+n2;
