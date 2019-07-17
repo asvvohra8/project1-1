@@ -1,0 +1,6 @@
+
+def mul(n,n2):
+  return n*n2
+  
+  
+ hey this asvvohra8 i have created a multiplication function 
